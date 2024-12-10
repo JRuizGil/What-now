@@ -8,10 +8,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HabitacionScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: "Assets/Scenes/Ba\xF1oScene.unity"
-    guid: 6b1c16b7cb4eb9d46a17a68b50a24b8a
-  - enabled: 1
-    path: Assets/Scenes/SalonScene.unity
-    guid: f7f2f4b473a08b04ebfff4a60f23c1f4
   m_configObjects: {}
